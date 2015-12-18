@@ -30,7 +30,7 @@
 		"resolved"=>array(
 			"type"=>"integer",
 			"value"=>$count,
-			"label"=>"Unassigned open issues in current sprint",
+			"label"=>"Unassigned issues in current sprint",
 			"strategy"=>"interval"
 		)
 	);
