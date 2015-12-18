@@ -16,7 +16,7 @@ module.exports = function(grunt) {
 				files: [{
 					expand: true,
 					dest: "tunapanda-kpi-feed",
-					src: ["**","!node_modules/**"]
+					src: ["**","!node_modules/**",".githubuserpwd"]
 				}]
 			},
 		}
